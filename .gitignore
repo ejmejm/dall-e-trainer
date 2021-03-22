@@ -1,0 +1,23 @@
+openai_src/
+data/google_captions/
+src/taming
+src/data/
+
+# OS specific
+*.DS_Store
+
+# Python
+/build
+/dist
+__pycache__
+*.ipynb_checkpoints
+*.egg-info
+
+# Vim
+*.vim
+*.swk
+*.swl
+*.swm
+*.swn
+*.swo
+*.swp
